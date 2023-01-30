@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Clase-16-Firebase-C4/static/css/main.c2cab247.css",
+    "main.js": "/Clase-16-Firebase-C4/static/js/main.f270e841.js",
+    "index.html": "/Clase-16-Firebase-C4/index.html",
+    "main.c2cab247.css.map": "/Clase-16-Firebase-C4/static/css/main.c2cab247.css.map",
+    "main.f270e841.js.map": "/Clase-16-Firebase-C4/static/js/main.f270e841.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.f270e841.js"
+  ]
+}
